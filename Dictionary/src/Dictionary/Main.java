@@ -6,7 +6,6 @@ public class Main {
         Dictionary a = new Dictionary();
         DictionaryManagement b =new DictionaryManagement();
         dc.dictionaryBasic();
-        //dc.dictionaryAdvanced();
-
+      
     }
 }
